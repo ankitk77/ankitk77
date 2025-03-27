@@ -48,7 +48,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitk77&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=ankitk77&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankitk77&theme=solarized-dark&hide_border=true)
-
 ---
+
+<img src="https://komarev.com/ghpvc/?username=ankitk77&label=Profile%20views&color=0e75b6"/>
 
 
